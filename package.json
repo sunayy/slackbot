@@ -9,6 +9,7 @@
   "author": "goto shunya",
   "license": "ISC",
   "dependencies": {
-    "botkit": "^0.2.2"
+    "botkit": "^0.2.2",
+    "cron": "^1.1.0"
   }
 }
